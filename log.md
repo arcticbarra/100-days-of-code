@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 2, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt about Git and Github
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I struggled with merging two branches and seeing graphically the commit line between branches. Overall feeling confident on the topic.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Medium Post](https://medium.com/@ebarragan1997/100daysofcode-day-0-git-and-github-9cc37a18ea0b#.3d21d0e5s)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started tinkering with Pandas form my main project
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** Couldn't get the table info from the site using `read_html`, tried with `read_csv` after copying all the text in the site to Excel but this will imply more manual work than it needs to be done, there must be a way to do it with a programming approach.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work** [Medium Post](https://medium.com/@ebarragan1997/100daysofcoding-day-1-hacking-the-mexican-congress-b229e0cf5374#.hqqraqco3)
