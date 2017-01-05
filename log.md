@@ -8,10 +8,16 @@
 
 **Link to work:** [Medium Post](https://medium.com/@ebarragan1997/100daysofcode-day-0-git-and-github-9cc37a18ea0b#.3d21d0e5s)
 
-### Day 1: January 3, 2017, Monday
+### Day 1: January 3, 2017, Tuesday
 
 **Today's Progress**: I started tinkering with Pandas form my main project
 
 **Thoughts** Couldn't get the table info from the site using `read_html`, tried with `read_csv` after copying all the text in the site to Excel but this will imply more manual work than it needs to be done, there must be a way to do it with a programming approach.
 
 **Link to work** [Medium Post](https://medium.com/@ebarragan1997/100daysofcoding-day-1-hacking-the-mexican-congress-b229e0cf5374#.hqqraqco3)
+
+### Day 2: January 4, 2017, Wednesday
+
+**Today's Progress**: Made a twitter API using tweepy.
+
+**Thoughts** Started analyzing tweet data using tweepy and pandas, currently focusing on gathering information about riots in Mexico due to an increment in gas prices.
