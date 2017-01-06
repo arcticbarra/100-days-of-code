@@ -21,3 +21,11 @@
 **Today's Progress**: Made a twitter API using tweepy.
 
 **Thoughts** Started analyzing tweet data using tweepy and pandas, currently focusing on gathering information about riots in Mexico due to an increment in gas prices.
+
+### Day 3: January 5, 2017, Thursday
+
+**Today's Progress**: Identicon creator using Elixir
+
+**Thoughts** Functional programming is very different to what I'm used to, Elixir's pattern matching is amazing but will take me some time to fully use its potential.
+
+**Link to work** [Github link](https://github.com/arcticbarra/identicon)
