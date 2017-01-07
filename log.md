@@ -28,4 +28,17 @@
 
 **Thoughts** Functional programming is very different to what I'm used to, Elixir's pattern matching is amazing but will take me some time to fully use its potential.
 
-**Link to work** [Github link](https://github.com/arcticbarra/identicon)
+**Link(s) to work**
+1. [Github Link](https://github.com/arcticbarra/identicon)
+2. [Medium Post](https://medium.com/@ebarragan1997/100daysofcode-day-3-identicon-9df06ef6ec9b#.s9szwew1h)
+
+### Day 4: January 6, 2017, Friday
+
+**Today's Progress**: Twitter bot using NodeJS
+
+**Thoughts** Interesting to work with the Twitter API again, created a twitter bot that retweets internship opportunities. Still trying to figure out why sometimes the search results are different with the same query.
+
+**Link(s) to work**
+1. [Github Link](https://github.com/arcticbarra/twitterbot)
+2. [Medium Post](https://medium.com/@ebarragan1997/100daysofcode-day-4-twitter-bot-6ca611007b90#.lqhemelpz)
+3. [Twitter Account](https://twitter.com/internshipbot)
