@@ -42,3 +42,9 @@
 1. [Github Link](https://github.com/arcticbarra/twitterbot)
 2. [Medium Post](https://medium.com/@ebarragan1997/100daysofcode-day-4-twitter-bot-6ca611007b90#.lqhemelpz)
 3. [Twitter Account](https://twitter.com/internshipbot)
+
+### Day 5: January 7, 2017, Friday
+
+**Today's Progress**: Facebook HackerCup
+
+**Thoughts** Today I worked on solving a problem for the qualification round of the Facebook HackerCup. The problem consists of telling if a point will be included in a partial circle. I'm solving it on Ruby and hopefully will be able to finish it tomorrow before time runs out.
