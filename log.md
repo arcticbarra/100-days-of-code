@@ -48,3 +48,39 @@
 **Today's Progress**: Facebook HackerCup
 
 **Thoughts** Today I worked on solving a problem for the qualification round of the Facebook HackerCup. The problem consists of telling if a point will be included in a partial circle. I'm solving it on Ruby and hopefully will be able to finish it tomorrow before time runs out.
+
+### Day 6: January 8, 2017, Saturday
+
+**Today's Progress**: Facebook HackerCup
+
+**Thoughts** Continued working on the HackerCup, this time I'm trying another problem related to getting the optimal choice and probability estimation.
+
+### Day 7: January 9, 2017, Sunday
+
+**Today's Progress**: Facebook HackerCup
+
+**Thoughts** Last day of the Facebook HackerCup, although I worked for 3 days, couldn't solve the problems as they were too advanced for me. I'll try again next year when I'm more prepared.
+
+### Day 8: January 10, 2017, Monday
+
+**Today's Progress**: Front-end with MaterializeCSS
+
+**Thoughts** Today I started a new project, a website for the digital marketing agency in my university. I worked on the front-end today using parallax effects and making it responsive.
+
+**Link to work:** [Github](http://www.github.com/arcticbarra/digitalhub)
+
+### Day 9: January 11, 2017, Tuesday
+
+**Today's Progress**: Back-end with NodeJS
+
+**Thoughts** Today I started with the back-end part of the website using express, I used the nodeMailer package to send data from the form in the site to my email, couldn't get it working to send files though.
+
+**Link to work:** [Github](http://www.github.com/arcticbarra/digitalhub)
+
+### Day 10: January 12, 2017, Wednesday
+
+**Today's Progress**: Database and deployment
+
+**Thoughts** Today I decided to remove the email functionality and instead created a database in MongoDB for saving the form data. I uploaded the site to Heroku and used Mlab for the DB.
+
+**Link to work:** [Digital Hub](http://www.digitalhub.com.mx)
